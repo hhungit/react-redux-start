@@ -1,6 +1,6 @@
 # Start-project 
 Clone it to your machine. run
 
-npm install
-webpack -w
+(1)npm install
+(2)webpack -w
 Then open new Terminal (CMD) tab and run "node index" or "npm start"

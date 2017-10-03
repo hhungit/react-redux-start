@@ -1,4 +1,4 @@
-# redux-kpt
+# Start-project 
 Clone it to your machine. run
 
 npm install

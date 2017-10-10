@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "pg-promise":"^7.0",
     "ejs": "^2.5.7",
     "express": "^4.16.0",
     "react": "^16.0.0",

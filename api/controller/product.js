@@ -12,6 +12,7 @@ module.exports=  {
           message: 'Get du luu thanh cong'
         });
 } 
+//hoang hung
 catch(e) {
     // error
       res.status(201)
